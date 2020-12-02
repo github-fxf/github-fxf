@@ -1,51 +1,40 @@
-## Hello GitHub Fans 👋
-[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-### I'm Siwei Zhou
+<h3> 👨🏻‍💻 About Me </h3>
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
-- ⚡ Fun fact: Data Analysis📊
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-### 🛠 技术栈 | Tech Stack
+<h3>🛠 Tech Stack</h3>
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 💻 &nbsp; Java | spring | spring cloud  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | oracle | redis
+- 🔧 &nbsp; IDEA | Eclipse | Git
+- 🖥 &nbsp; Photoshop | OpenShot
 
-### 开源项目
-- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
-- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
-- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
-- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
-- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
-- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
-- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
-- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
-- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
-- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
+<br>
 
-### 关于我
-- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
-- [CSDN](https://zhousiwei.blog.csdn.net/)
-- [微博](http://weibo.com/jayinfo)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+</br>
 
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+⭐️ From [devSouvik](https://github.com/devSouvik)
